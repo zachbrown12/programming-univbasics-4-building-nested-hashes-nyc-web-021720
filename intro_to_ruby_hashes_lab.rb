@@ -3,7 +3,8 @@ def base_hash
   # keyword "return." Nice and neat.
 monopoly =  {
   railroads:{
-    pieces:"4"
+    pieces:4,
+    re
   }
 }
 end
