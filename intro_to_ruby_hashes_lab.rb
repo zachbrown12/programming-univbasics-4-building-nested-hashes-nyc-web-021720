@@ -4,7 +4,8 @@ def base_hash
 monopoly =  {
   railroads:{
     pieces:4,
-    re
+    rent_in_dollars:{}
+    names:{}
   }
 }
 end
